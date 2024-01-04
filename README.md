@@ -1,8 +1,9 @@
-<img title="" src="https://thezombrex.github.io/images/me.webp" alt="" align="center" width="274" data-align="center">
+<div style="display:flex; flex-direction:column;justify-content:center;align-items:center;text-align:center;margin:auto;">
+    <img src="https://thezombrex.github.io/images/me.webp" alt="Foto de perfil" style="width:100%; height:auto;object-fit:contain;">
 
 <h3 align="center">¡Hola! Soy Zombrex</h3>
 
-</p>
+</div>
 
 <p align="center">Soy <strong>Aprendiz de desarrollador</strong> centrado principalmente en el Fontend</p>
 
