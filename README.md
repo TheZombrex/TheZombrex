@@ -30,14 +30,6 @@
 
 ### **👇 Últimos proyectos creados**
 
-<img src="https://thezombrex.github.io/projects/images/project-gym.jpg" title="" alt="" width="374">
-
-#### [NeoGym](https://thezombrex.github.io/projects/gym/) (HTML + Sass)
-
-<img src="https://thezombrex.github.io/projects/images/project-zorros.jpg" title="" alt="" width="371">
-
-#### [Fox Conservation Center]([Fox Conservation Center](https://thezombrex.github.io/zorros/)) (NextJS + Tailwind)
-
 <div style="max-width:600px;display:grid;gap:.5em;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)">
 <article style="min-width: 250px">
     <img src="https://thezombrex.github.io/projects/images/project-gym.jpg">
