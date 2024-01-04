@@ -1,4 +1,3 @@
-<main style="display:flex; flex-direction:column;justify-content:center;align-items:center;">
 <div align="center" style="display:flex; flex-direction:column;justify-content:center;align-items:center;text-align:center;margin:auto;width:"300px">
     <img src="https://thezombrex.github.io/images/me.webp" alt="Foto de perfil" style="width:"200px"; height:auto;object-fit:contain;margin:auto;display:flex;">
 
@@ -31,7 +30,7 @@
 
 ### **👇 Últimos proyectos creados**
 
-<div style="max-width:600px;display:grid;gap:.5em;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)">
+<div align="center" style="max-width:600px;display:grid;gap:.5em;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)">
 <article style="min-width: 250px">
     <img src="https://thezombrex.github.io/projects/images/project-gym.jpg">
     <h3>
@@ -47,4 +46,3 @@
     </h3>
 </atricle>
 </div>
-</main>
