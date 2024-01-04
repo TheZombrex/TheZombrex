@@ -1,5 +1,5 @@
 <div style="display:flex; flex-direction:column;justify-content:center;align-items:center;text-align:center;margin:auto;">
-    <img src="https://thezombrex.github.io/images/me.webp" alt="Foto de perfil" style="width:100%; height:auto;object-fit:contain;">
+    <img src="https://thezombrex.github.io/images/me.webp" alt="Foto de perfil" style="width:50%; height:auto;object-fit:contain;">
 
 <h3 align="center">¡Hola! Soy Zombrex</h3>
 
