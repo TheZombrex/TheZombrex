@@ -30,7 +30,7 @@
 
 
 <div align="center" style="max-width:600px;display:grid;gap:.5em;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)">
-    ### **👇 Últimos proyectos creados**
+### **👇 Últimos proyectos creados**
 <article style="min-width: 250px">
     <img src="https://thezombrex.github.io/projects/images/project-gym.jpg">
     <h3>
