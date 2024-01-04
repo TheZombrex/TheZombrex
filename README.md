@@ -18,7 +18,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="thezombrex" height="28px" width="28px" />
   </a>
   <a href="https://thezombrex.github.io" target="blank">
-    <img align="center" src="https://thezombrex.github.io/images/icons/globe.svg" alt="thezombrex" height="28px" width="28px" style="fill:#fff" />
+    <img align="center" src="https://thezombrex.github.io/images/icons/globe.svg" alt="thezombrex" height="28px" width="28px" />
   </a>
 </p>
 
