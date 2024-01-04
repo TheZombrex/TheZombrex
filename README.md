@@ -22,10 +22,6 @@
   </a>
 </p>
 
-</a>
-
-</p>
-
 <img align="center" title="Proyectos" src="https://thezombrex.github.io/images/proyectos_resumen.jpg" alt="" width="809"> 
 
 
