@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img align="center" title="Proyectos" src="https://thezombrex.github.io/images/proyectos_resumen.jpg" alt="" width="809"> 
+<img align="center" title="Proyectos" src="https://thezombrex.github.io/images/proyectos_resumen.jpg" alt="" style="width:70%;max-width:800;margin:auto;"> 
 
 
 <div align="center" style="max-width:600px;display:grid;gap:.5em;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)">
