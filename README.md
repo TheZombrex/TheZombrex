@@ -1,5 +1,4 @@
 <div align="center" style="display:flex; flex-direction:column;justify-content:center;align-items:center;text-align:center;margin:auto;width:"300px">
-    <img src="https://thezombrex.github.io/images/me.webp" alt="Foto de perfil" style="width:"200px"; height:auto;object-fit:contain;margin:auto;display:flex;">
 
 <h3 align="center">¡Hola! Soy Zombrex</h3>
 
