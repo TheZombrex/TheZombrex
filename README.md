@@ -24,21 +24,3 @@
 <div align="center" style="display:flex;justify-content:center;align-items:center;">
 <img align="center" title="Proyectos" src="https://thezombrex.github.io/images/proyectos_resumen.jpg" alt="" style="width:70%;max-width:800;"> 
 </div>
-
-<div align="center" style="max-width:600px;display:grid;gap:.5em;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)">
-    <h2>👇 Últimos proyectos creados</h2>
-<article style="min-width: 250px">
-    <img src="https://thezombrex.github.io/projects/images/project-gym.jpg">
-    <h3>
-        <a href="https://thezombrex.github.io/projects/gym/">NeoGym</a>
-        (HTML + Sass)
-    </h3>
-</atricle>
-<article style="min-width: 250px">
-    <img src="https://thezombrex.github.io/projects/images/project-zorros.jpg">
-    <h3>
-        <a href="https://thezombrex.github.io/zorros/">Fox Conservation Center</a>
-        (NextJS + Tailwind)
-    </h3>
-</atricle>
-</div>
